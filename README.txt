@@ -1,5 +1,5 @@
-Nama    : Revan Fatkhurezi Desviansyah
-NIM     : 20230040097
+Nama    : Pikri Alpiansyah
+NIM     : 20230040200
 Kelas   : TI23E
 
 Tugas   : Aplikasi Perpustakaan (Tampilkan & Tambah Buku)
